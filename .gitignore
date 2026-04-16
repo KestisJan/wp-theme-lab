@@ -1,0 +1,12 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node (if you add build tools later)
+node_modules/
+dist/
+npm-debug.log*
+
+# WordPress/Development
+*.log
+.git/
